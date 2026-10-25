@@ -1,6 +1,4 @@
-\# Storage Estimator - Updated Main Version
-
-
+# Storage Estimator
 
 \## Purpose
 
